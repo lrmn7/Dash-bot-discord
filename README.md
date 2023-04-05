@@ -18,5 +18,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@lrmn](https://github.com/lrmn) &nbsp;&middot;&nbsp;
-> Instagram [@lrmn](https://instagram.com/lrmn)
+> Github [@lrmn](https://github.com/lrmn7) &nbsp;&middot;&nbsp;
+> Instagram [@lrmn](https://instagram.com/romanroman.nya)
